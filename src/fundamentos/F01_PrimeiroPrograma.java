@@ -23,6 +23,6 @@ public class F01_PrimeiroPrograma {
 
     // Método principal
     public static void main(String[] args) {
-        System.out.println("Olá Mundo!");   // Imprime mensagem na tela
+        System.out.println("Olá Mundo!!!");   // Imprime mensagem na tela
     }
 }
