@@ -1,4 +1,4 @@
-package fundamentos.oo;
+package oo;
 
 public class OO_01_Somador {
     public int somar(int num1, int num2) {
