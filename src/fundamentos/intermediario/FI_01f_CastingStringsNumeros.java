@@ -1,6 +1,6 @@
-package fundamentos.basico;
+package fundamentos.intermediario;
 
-public class FB_02f_CastingStringsNumeros {
+public class FI_01f_CastingStringsNumeros {
     public static void main(String[] args) {
         Integer num1 = 40;
         System.out.println(num1 + 2);

@@ -1,6 +1,6 @@
 package fundamentos.basico;
 
-public class FB_02c_Strings {
+public class FB_02d_Strings {
     public static void main(String[] args) {
         String s = "Bom dia X!";
         String nome = "Herculano";

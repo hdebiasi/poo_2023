@@ -1,6 +1,6 @@
 package fundamentos.intermediario;
 
-public class FI_03_Matematica {
+public class FI_04_Matematica {
     public static void main(String[] args) {
         System.out.println("2^3 = " + Math.pow(2, 3));
         System.out.println("Raiz quadrada de 25 = " + Math.sqrt(25));
