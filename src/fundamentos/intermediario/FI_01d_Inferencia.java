@@ -1,6 +1,6 @@
-package fundamentos.basico;
+package fundamentos.intermediario;
 
-public class FB_02d_Inferencia {
+public class FI_01d_Inferencia {
     public static void main(String[] args) {
         var nome = "Herculano De Biasi";
         var valor = 42;

@@ -1,6 +1,6 @@
-package fundamentos.basico;
+package fundamentos.intermediario;
 
-public class FB_02g_CastingNumerosStrings {
+public class FI_01g_CastingNumerosStrings {
     public static void main(String[] args) {
         String str1 = "40";
         int num1 = Integer.parseInt(str1) + 2;

@@ -2,7 +2,7 @@ package fundamentos.intermediario;
 
 import java.util.Scanner;
 
-public class FI_04_EntradaDados {
+public class FI_05_EntradaDados {
     public static void main(String[] args) {
         double n1, n2, resultado;
 

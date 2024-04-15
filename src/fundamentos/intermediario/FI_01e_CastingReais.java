@@ -1,6 +1,6 @@
-package fundamentos.basico;
+package fundamentos.intermediario;
 
-public class FB_02e_CastingReais {
+public class FI_01e_CastingReais {
     public static void main(String[] args) {
         // Divisões                                         Resultado
         System.out.println("Inteiro:");

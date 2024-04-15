@@ -8,9 +8,9 @@ public class FB_02a_TiposDados {
 
         // Caracteres / strings
         char letra = 'H';
-        char unicode = '\u2661';
+        char unicode = '\u2318';
         String nome = "Herculano";
-        System.out.println( "\n" + letra + " | " + unicode + nome + unicode);
+        System.out.println( "\n" + letra + " | " + unicode + " " + nome + " " + unicode);
 
         // Números inteiros
         byte idade = 42;
