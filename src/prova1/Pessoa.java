@@ -3,8 +3,8 @@ package prova1;
 import java.time.LocalDate;
 
 public class Pessoa {
-    String nome;
-    int anoNascimento;
+    private String nome;
+    private int anoNascimento;
 
     public Pessoa() { }
 

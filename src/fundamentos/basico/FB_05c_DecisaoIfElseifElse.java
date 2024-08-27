@@ -4,11 +4,9 @@ import java.util.Scanner;
 
 public class FB_05c_DecisaoIfElseifElse {
     public static void main(String[] args) {
-        double media;
-
         Scanner scanner = new Scanner(System.in);
         System.out.print("Digite a sua média final [0,0 - 10,0]: ");
-        media = scanner.nextDouble();
+        double media = scanner.nextDouble();
 
         if (media < 0 || media > 10) {
             System.out.println("Média inválida!");

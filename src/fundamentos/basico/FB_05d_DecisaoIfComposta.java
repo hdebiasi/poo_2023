@@ -4,20 +4,16 @@ import java.util.Scanner;
 
 public class FB_05d_DecisaoIfComposta {
     public static void main(String[] args) {
-        String nome;
-        double media;
-        float frequencia;
-
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Nome estudante: ");
-        nome = scanner.next();
+        String nome = scanner.next();
 
         System.out.print("Média final: ");
-        media = scanner.nextDouble();
+        double media = scanner.nextDouble();
 
         System.out.print("Frequência: ");
-        frequencia = scanner.nextFloat();
+        float frequencia = scanner.nextFloat();
 
         if (media >= 7 &&  frequencia >= 75) {
             System.out.println("Estudante " + nome + " passou!");

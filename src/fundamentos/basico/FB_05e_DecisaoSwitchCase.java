@@ -4,11 +4,9 @@ import java.util.Scanner;
 
 public class FB_05e_DecisaoSwitchCase {
     public static void main(String[] args) {
-        int media;
-
         Scanner scanner = new Scanner(System.in);
         System.out.print("Digite a sua média final [0 - 10]: ");
-        media = scanner.nextInt();
+        int media = scanner.nextInt();
 
         switch (media) {
             case 10: { System.out.println("Parabéns!!! Nota perfeita!"); break; }
@@ -29,3 +27,4 @@ public class FB_05e_DecisaoSwitchCase {
         }
     }
 }
+
