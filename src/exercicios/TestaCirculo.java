@@ -1,4 +1,4 @@
-package prova1;
+package exercicios;
 
 public class TestaCirculo {
     public static void main(String[] args) {

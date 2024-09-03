@@ -1,4 +1,4 @@
-package testes;
+package exercicios;
 
 public class Quadrado extends FormaGeometrica {
     private int lado;

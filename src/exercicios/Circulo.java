@@ -1,4 +1,4 @@
-package prova1;
+package exercicios;
 
 public class Circulo {
     static void calcularArea(double raio) {

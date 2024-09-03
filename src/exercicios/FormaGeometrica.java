@@ -1,4 +1,4 @@
-package testes;
+package exercicios;
 
 public abstract class FormaGeometrica {
     private String nome;

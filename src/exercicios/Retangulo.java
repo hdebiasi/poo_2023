@@ -1,4 +1,4 @@
-package testes;
+package exercicios;
 
 public class Retangulo extends FormaGeometrica {
     private int comprimento, largura;
