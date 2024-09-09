@@ -23,6 +23,6 @@ public class Swing2 {
                 JOptionPane.QUESTION_MESSAGE,
                 null,
                 opcoes,
-                opcoes[2]);
+                opcoes[0]);
     }
 }

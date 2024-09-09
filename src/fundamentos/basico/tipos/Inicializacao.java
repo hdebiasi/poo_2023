@@ -18,10 +18,10 @@ public class Inicializacao {
     }
 
     public void teste() {
-        String s;
-        int numero;
+        String s="";
+        int numero=0;
 
-//        System.out.println(s);
-//        System.out.println(numero);
+        System.out.println(s);
+        System.out.println(numero);
     }
 }

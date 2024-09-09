@@ -19,5 +19,9 @@ public class OperacoesNumericas {
         double n2 = 3;
         double resultado = n1 / n2;                                 // 3.3333333333333335
         System.out.println("10d/3d = " + resultado);                // 3.3333333333333335
+
+        int num1 = 10, num2 = 3;
+        double resposta = 10 / 3;
+        System.out.println(resposta);
     }
 }

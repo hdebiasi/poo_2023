@@ -11,7 +11,7 @@ public class OperacoesAritmeticas {
         System.out.printf("n1 * n2 = %d\n", n1 * n2);
         System.out.printf("n1 / n2 = %d\n", n1 / n2);
         System.out.printf("n1 %% n2 = %d\n", n1 % n2);
-        System.out.printf("Resto da divisão de 10 %% 3 = %d\n", 10 % 3);
+        System.out.printf("Resto da divisão de 10 % 3 = %d\n", 10 % 3);
 
         System.out.println("\nOperadores unários");
         int a, b;

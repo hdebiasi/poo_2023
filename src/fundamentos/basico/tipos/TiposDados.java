@@ -20,8 +20,8 @@ public class TiposDados {
         System.out.println("\n" + idade + "\n" + valor + "\n" + numero + "\n" + numeroLongo);
 
         // Números reais (ponto-flutuante)
-        float  salario1 = 12.987654321f;    // Sufixo 'f' é opcional
-        double salario2 = 12.987654321d;
+        float  salario1 = 12.987654321f;
+        double salario2 = 12.987654321d;    // Sufixo 'd' é opcional
         System.out.println("\n" + salario1 + "\n" + salario2);
     }
 }

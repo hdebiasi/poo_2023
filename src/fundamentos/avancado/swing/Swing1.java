@@ -13,7 +13,7 @@ public class Swing1 {
             }
 
             if(!nome.equals("oi")) {
-                System.out.println("nao digitei oi");
+                System.out.println("não digitei oi");
             } else {
                 System.out.println("digitei oi");
             }

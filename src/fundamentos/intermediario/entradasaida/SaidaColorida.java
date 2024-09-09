@@ -77,6 +77,6 @@ class ConsoleColors {
 
 public class SaidaColorida {
     public static void main(String[] args) {
-        System.out.println(ConsoleColors.RED_BOLD + "Teste de cor");
+        System.out.println(ConsoleColors.BLUE_BOLD + "Teste de cor");
     }
 }
