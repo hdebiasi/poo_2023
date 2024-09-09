@@ -2,7 +2,7 @@ package fundamentos.basico.entradasaida;
 
 import java.util.Scanner;
 
-public class FB_04a_EntradaDadosScanner {
+public class EntradaDadosScanner {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Digite a sua idade..: ");

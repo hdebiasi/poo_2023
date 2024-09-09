@@ -1,6 +1,6 @@
-package fundamentos.basico.tipos;
+package fundamentos.basico.numeros;
 
-public class Aritmetica {
+public class OperacoesAritmeticas {
     public static void main(String[] args) {
         int n1 = 40, n2 = 2;
 

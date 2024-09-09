@@ -2,7 +2,7 @@ package fundamentos.basico.entradasaida;
 
 import java.io.Console;
 
-public class FB_04b_EntradaDadosConsole {
+public class EntradaDadosConsole {
     public static void main(String[] args) {
         Console console = System.console();
         if (console == null) {
