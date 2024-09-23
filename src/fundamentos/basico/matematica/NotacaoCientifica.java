@@ -4,7 +4,10 @@ import java.text.DecimalFormat;
 
 public class NotacaoCientifica {
     public static void main(String[] args) {
-        double numero = 1.23e2;
+        double numero = 1.23e2;         // 1.23 x 10^2
+        System.out.println(numero);
+
+        numero = 1.23e3;                // 1.23 x 10^3
         System.out.println(numero);
 
         numero = 123;

@@ -5,6 +5,7 @@ public class Constantes {
         // Declaração e inicialização de uma constante
         final double PI = 3.14159;
 
+        // Cálculo da área do círculo
         double raio = 1;
         double area = PI * (raio * raio);
 

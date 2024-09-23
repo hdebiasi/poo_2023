@@ -23,4 +23,19 @@ public class Pessoa {
                 ", salario=" + salario +
                 '}';
     }
+
+//    @Override
+//    public String toString() {
+//        return String.format("Pessoa [nome='%s', salario=%.2f]",
+//                this.nome,
+//                this.salario);
+//    }
+
+    @Override
+    public String toString() {
+        return "Pessoa{" +
+                "nome='" + nome + '\'' +
+                ", salario=" + salario +
+                '}';
+    }
 }
